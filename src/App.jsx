@@ -8,7 +8,6 @@ import DetailPanel from './components/DetailPanel'
 import Search from './components/Search'
 import {GlobalStyle} from './styles'
 import {Transition} from 'react-transition-group'
-import {P} from './components/DetailPanel/styles'
 
 // Function expression
 const App = () => {
